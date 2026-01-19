@@ -4,7 +4,7 @@ Hello! My name is Neha Modi. I study at the University of Washington. This page 
 
 ## Academics
 
-I am a freshman majoring in **Computer Science**. I intent to double major in *Statistics* and will be applying into the major this Spring. 
+I am a freshman majoring in **Computer Science**. I intend to double major in *Statistics* and will be applying into the major this Spring. 
 
 Here are the classes I'm taking this quarter at UW:
 
